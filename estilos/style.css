@@ -41,8 +41,10 @@ main {
   height: 50rem;
   border-radius: 20px;
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.450);
-
   overflow: hidden;
+
+  transition: width 400ms, heigth 400ms;
+  transition-timing-function: ease;
 }
 
 #login > #image {
