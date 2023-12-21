@@ -23,6 +23,7 @@
 
     #login {
       width: 80vw;
+      height: 40rem;
     }
 
     #login > #image {
@@ -45,6 +46,14 @@
     #formulario p {
       font-size: 1.6rem;
     }
+
+    .campo:nth-child(2){
+      margin-bottom: 2rem;
+    }
+
+    form {
+      margin-top: 5rem;
+    }
     
   }
 
@@ -56,6 +65,7 @@
 
     #login {
       width: 99rem;
+      height: 40rem;
     }
 
     #login > #image {
@@ -76,5 +86,15 @@
 
     #formulario p {
       font-size: 1.8rem;
+
+      margin: 2.5rem 0px;
+    }
+
+    .campo:nth-child(2){
+      margin-bottom: 2rem;
+    }
+
+    form {
+      margin-top: 5rem;
     }
   }
