@@ -110,6 +110,18 @@ form > input[type=submit]{
 
 }
 
+input:focus{
+  outline: 1px solid #9245c5;
+}
+
+::-webkit-input-placeholder{
+  color: #602c827c;
+}
+
+input::-moz-placeholder{
+  color: #602c827c;
+}
+
 .campo {
   display: flex;
   gap: 5px;
