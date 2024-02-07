@@ -25,7 +25,7 @@
 <br>
 
 # 💻 Layout Desktop | 📱 Layout mobile
-[![print](https://github.com/silvapedrodev/iframe-social-midia/blob/main/assets/print.png?raw=true)](https://silvapedrodev.github.io/iframe-social-midia/)
+[![print]()](https://silvapedrodev.github.io/projeto-login/)
 
 - <a href="https://silvapedrodev.github.io/projeto-login/" target="_blank"><strong>Click Here</strong> &#x1F517;</a>
 
@@ -37,6 +37,7 @@ Este projeto foi inspirado no módulo 4, capítulo 26, do <a href="https://www.y
 Gostaria de expressar minha gratidão ao Canal Curso em Vídeo e ao professor Gustavo Guanabara por fornecerem conteúdo educacional de alta qualidade e de forma acessível a todos. O material didático e os tutoriais oferecidos pelo Curso em Vídeo têm sido inestimáveis ​​para minha aprendizagem e desenvolvimento de habilidades em programação web.
 
 Para saber mais sobre o Canal Curso em Vídeo e seus cursos, visite o <a href="https://www.cursoemvideo.com/">site oficial</a>.
+
 
 
 ## 👨‍💻 Autor
