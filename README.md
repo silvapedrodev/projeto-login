@@ -25,7 +25,7 @@
 <br>
 
 # 💻 Layout Desktop | 📱 Layout mobile
-[![print]()](https://silvapedrodev.github.io/projeto-login/)
+[![print](https://github.com/silvapedrodev/projeto-login/blob/main/assets/print.png?raw=true)](https://silvapedrodev.github.io/projeto-login/)
 
 - <a href="https://silvapedrodev.github.io/projeto-login/" target="_blank"><strong>Click Here</strong> &#x1F517;</a>
 
